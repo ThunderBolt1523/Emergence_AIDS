@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983691842477",
+    "project_id": "emergence-aids",
+    "storage_bucket": "emergence-aids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983691842477:android:55457083842def892c0724",
+        "android_client_info": {
+          "package_name": "com.example.emergence_aids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983691842477-670s9h559ji3aev57sslc55hf9mneq9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOFDAesP_JHlwJMn7jl3sCwnGKb8iCs1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983691842477-670s9h559ji3aev57sslc55hf9mneq9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
